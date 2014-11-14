@@ -1,0 +1,14 @@
+//
+//  Prefix header for all source files of the 'InAppAdv' target in the 'InAppAdv' project
+// 
+//  Created by Dave Wooldridge on 12/14/10.
+//
+//  Example Project from the Apress book
+//  The Business of iPhone and iPad App Development: Making and Marketing Apps that Succeed
+//  http://www.iPhoneBusinessBook.com/
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
